@@ -8,6 +8,7 @@
 <body>
     <form action="" method="post">
         <input type="text">
+        <input type="date" name="" id="">
         <input type="submit">
     </form>
 </body>
